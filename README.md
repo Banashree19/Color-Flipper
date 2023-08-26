@@ -1,3 +1,3 @@
 # Color-Flipper
 
-Concepts eventlistner, math.random, math.floor 
+Concepts eventListener, math.random, math.floor 
